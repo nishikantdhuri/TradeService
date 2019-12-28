@@ -5,3 +5,4 @@ Flask_DebugToolbar==0.10.1
 Flask==1.1.1
 WTForms==2.2.1
 pymongo==3.9.0
+Flask_Login==0.4.1
