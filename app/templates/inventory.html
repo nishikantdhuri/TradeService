@@ -1,0 +1,22 @@
+{% block content %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="POST" novalidate action="/regionb/Inventory">
+{{ form.trade_name.label}} {{form.trade_name}}
+{% if form.trade_name.errors %}
+{% for error in form.trade_name.errors %}
+{{error}}
+{% endfor %}
+{% endif %}
+<input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+{{form.override.label}} {{form.override}}
+{{form.submit.label}} {{form.submit}}
+{{form.csrf_token}}
+</form>
+</body>
+</html>
+{% endblock %}

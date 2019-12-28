@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Source</th>
+    <th>Account</th>
+    <th>Trade Date</th>
+    <th>User</th>
+    <th>Amount</th>
+    <th>Entiry</th>
+    <th>sdate1</th>
+  </tr>
+  <!--<tr>-->
+    <!--<td>{{data['id'] }}</td>-->
+    <!--<td>{{data['source']}}</td>-->
+    <!--<td>{{data['account']}}</td>-->
+    <!--<td>{{data['tdate']}}</td>-->
+    <!--<td>{{data['user']}}</td>-->
+    <!--<td>{{data['amount']}}</td>-->
+    <!--<td>{{data['entity']}}</td>-->
+    <!--<td>{{data['sdate']}}</td>-->
+  <!--</tr>-->
+  {% for i in data %}
+    <tr>
+    <td>{{i.id }}</td>
+    <td>{{i.source}}</td>
+    <td>{{i.account}}</td>
+    <td>{{i.tdate}}</td>
+    <td>{{i.user}}</td>
+    <td>{{i.amount}}</td>
+    <td>{{i.entity}}</td>
+    <td>{{i.sdate}}</td>
+  </tr>
+    {% endfor %}
+</table>
+{% endblock %}

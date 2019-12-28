@@ -1,0 +1,8 @@
+{% from "basemacro.html" import format_macro with context %}
+<html>
+   <body>
+      <h1>Welcome to {{format_macro("plexus")}}</h1>
+      {% block content %}
+      {% endblock %}
+   </body>
+</html>

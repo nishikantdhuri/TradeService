@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="POST" novalidate action="/regionB/trade">
+    {{form.trade_user.label}} {{form.trade_user}}
+    {{form.trade_name.label}} {{form.trade_name}}
+    {{form.trade_quantity.label}} {{form.trade_quantity}}
+    {% if form.trade_quantity.errors %}
+    {% for i in form.trade_quantity.errors %}
+    {{i}}
+    {% endfor %}
+    {% endif %}
+    {{form.exchanges.label}} {{form.exchanges}}
+    {{form.submit.label}} {{form.submit}}
+    {{form.hidden_tag()}}
+</form>
+</body>
+</html>

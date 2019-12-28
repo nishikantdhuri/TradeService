@@ -1,0 +1,1176 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 00:54:41] "GET /mliisa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 01:39:38] "GET /mliisa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 01:39:48] "GET /mliisa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 100 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 01:41:51] "GET /mliisa/ HTTP/1.1" 200 -
+INFO:app:<Response 100 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 01:41:53] "GET /mliisa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 01:42:50] "GET /mliisa/pijijip4 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 109 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:00:30] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:00:34] "GET /mliosa/getId HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:00:39] "GET /mliosa/getId/12 HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:00:47] "GET /mliosa/getId/12 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:02:29] "GET /mliosa/getId/12 HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:02:38] "GET /mliosa/getId?id=1 HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:02:44] "GET /mliosa/getId/12 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:02:59] "GET /mliosa/getId/12 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:03:15] "GET /mliosa/getId/12 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 2 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:03:37] "GET /mliosa/getmli/12 HTTP/1.1" 200 -
+INFO:app:<Response 2 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:04:58] "GET /mliosa/getmli/12 HTTP/1.1" 200 -
+INFO:app:<Response 2 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:05:05] "GET /mliosa/getmli/13 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:23:19] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:23:20] "GET / HTTP/1.1" 200 -
+INFO:app:<Response 106 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:23:29] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:24:52] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:24:53] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:24:53] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:24:53] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:24:54] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:24:54] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:24:54] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 106 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2019 02:25:17] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 02:16:26] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 02:16:26] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 02:16:27] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 02:16:27] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 02:16:28] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 02:16:28] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 02:16:28] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:30:47] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:30:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:30:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:30:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:30:48] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:30:48] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:30:48] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:39:19] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:39:20] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:39:20] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:39:20] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:39:21] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:39:21] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:39:21] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:42:43] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:42:43] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:42:43] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:42:43] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:42:44] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:42:45] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:42:45] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:43:35] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:43:35] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:43:35] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:43:35] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:43:36] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:43:37] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:43:37] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\repository\\mongodb.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\repository\\mongodb.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 284 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:47:02] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:47:04] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:app:<Response 284 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:47:31] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\repository\\mongodb.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:47:36] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:app:<Response 298 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:48:14] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:48:15] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:app:<Response 298 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:48:17] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:48:18] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 298 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:48:31] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:48:33] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:app:<Response 285 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:49:02] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:49:03] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\repository\\mongodb.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 285 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:49:15] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:49:15] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 285 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:49:33] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:49:34] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 681 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:51:43] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:51:44] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:begin
+INFO:app:<Response 681 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:51:57] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:51:58] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:52:01] "GET / HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:52:01] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:app:<Response 681 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:52:06] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:app:<Response 10 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:52:06] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:53:32] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Nov/2019 03:53:33] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:14:20] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:14:22] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:15:06] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:10] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:10] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:10] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:11] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:12] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:12] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:13] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:22] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:22] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:22] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:22] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:23] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:17:23] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 00:58:01] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 01:01:14] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 01:06:59] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 01:07:02] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2019 08:47:57] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:27:05] "GET /mliisa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:27:07] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:28:47] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:28:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:28:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:28:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:28:48] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:28:48] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:28:48] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:30:06] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:30:06] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:30:06] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:30:06] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:30:07] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:30:07] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:30:08] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:39:34] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:39:34] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:39:34] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:39:34] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:39:35] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:39:36] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:39:36] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:52:34] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:52:34] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:52:34] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:52:34] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:52:36] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:52:36] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2019 08:52:36] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:25:52] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:25:53] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:25:53] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:25:53] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:25:55] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:25:55] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:26:17] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:26:21] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:28:53] "GET /mliosa/ HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2457, in wsgi_app
+    ctx.auto_pop(error)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 452, in auto_pop
+    self.pop(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 438, in pop
+    app_ctx.pop(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 238, in pop
+    self.app.do_teardown_appcontext(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2320, in do_teardown_appcontext
+    func(exc)
+TypeError: tear_down() takes 1 positional argument but 2 were given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 354, in debug_application
+    ("X-XSS-Protection", "0"),
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 287, in start_response
+    raise AssertionError("Headers already set")
+AssertionError: Headers already set
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 304, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 294, in execute
+    for data in application_iter:
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 363, in debug_application
+    "Debugging middleware caught exception in streamed "
+OSError: [Errno 22] Invalid argument
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:28:55] "GET /favicon.ico HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2457, in wsgi_app
+    ctx.auto_pop(error)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 452, in auto_pop
+    self.pop(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 438, in pop
+    app_ctx.pop(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 238, in pop
+    self.app.do_teardown_appcontext(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2320, in do_teardown_appcontext
+    func(exc)
+TypeError: tear_down() takes 1 positional argument but 2 were given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 354, in debug_application
+    ("X-XSS-Protection", "0"),
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 287, in start_response
+    raise AssertionError("Headers already set")
+AssertionError: Headers already set
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 304, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 294, in execute
+    for data in application_iter:
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 363, in debug_application
+    "Debugging middleware caught exception in streamed "
+OSError: [Errno 22] Invalid argument
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:29:14] "GET /mliosa/ HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2457, in wsgi_app
+    ctx.auto_pop(error)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 452, in auto_pop
+    self.pop(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 438, in pop
+    app_ctx.pop(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 238, in pop
+    self.app.do_teardown_appcontext(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2320, in do_teardown_appcontext
+    func(exc)
+TypeError: tear_down() takes 1 positional argument but 2 were given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 354, in debug_application
+    ("X-XSS-Protection", "0"),
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 287, in start_response
+    raise AssertionError("Headers already set")
+AssertionError: Headers already set
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 304, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 294, in execute
+    for data in application_iter:
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 363, in debug_application
+    "Debugging middleware caught exception in streamed "
+OSError: [Errno 22] Invalid argument
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 15:29:15] "GET /favicon.ico HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2457, in wsgi_app
+    ctx.auto_pop(error)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 452, in auto_pop
+    self.pop(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 438, in pop
+    app_ctx.pop(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\ctx.py", line 238, in pop
+    self.app.do_teardown_appcontext(exc)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2320, in do_teardown_appcontext
+    func(exc)
+TypeError: tear_down() takes 1 positional argument but 2 were given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 354, in debug_application
+    ("X-XSS-Protection", "0"),
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 287, in start_response
+    raise AssertionError("Headers already set")
+AssertionError: Headers already set
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 304, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\serving.py", line 294, in execute
+    for data in application_iter:
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\werkzeug\debug\__init__.py", line 363, in debug_application
+    "Debugging middleware caught exception in streamed "
+OSError: [Errno 22] Invalid argument
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:21] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:23] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:30] "GET /mliosa/invenroty HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:39] "GET /mliosa/inventory HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:50] "GET /mliosa/Inventory HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:50] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:51] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:51] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:51] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:51] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:11:51] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:07] "GET /mliosa/Inventory HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:08] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:08] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:08] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:08] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:09] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:09] "GET /mliosa/Inventory?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:30] "GET /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:40] "POST /inventory HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:12:43] "GET /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\forms\\osa_form.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:13:08] "GET /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:13:24] "POST /inventory HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:13:44] "GET /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:13:47] "POST /inventory HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:02] "POST /inventory HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:06] "POST /inventory HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:10] "GET /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:17] "POST /mliosa/inventory HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:27] "GET /mliosa/Inventory HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:32] "POST /mliosa/Inventory HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:42] "POST /mliosa/Inventory HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:45] "POST /mliosa/Inventory HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:14:46] "POST /mliosa/Inventory HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:16:45] "GET /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:17:10] "POST /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:18:15] "POST /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2019 18:32:27] "GET /mliosa/Inventory HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:app:mliosa.html
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2019 20:50:26] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2019 20:50:27] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2019 21:23:43] "GET /api/ui HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2019 21:23:44] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2019 21:23:48] "GET / HTTP/1.1" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:app:mliosa.html
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:14:04] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:14:37] "GET /mliosa/stream_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:14:47] "GET /mliosa/stream_data HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:18:26] "GET /mliosa/stream_data HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:18:40] "GET /mliosa/stream_data_slow HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:18:50] "GET /mliosa/stream_data_1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:18:53] "GET /mliosa/stream_data_1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:20:38] "GET /mliosa/stream_data_1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:31:35] "GET /mliosa/stream_data_1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:31:44] "GET /mliosa/stream_data_1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:33:16] "GET /hello HTTP/1.1" 404 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:app:mliosa.html
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:33:47] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:34:08] "GET /mliosa/stream_data_slow HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 00:34:17] "GET /mliosa/stream_data_slow HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:app:mliosa.html
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:06] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:06] "GET /_debug_toolbar/static/js/jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:06] "GET /_debug_toolbar/static/js/jquery.tablesorter.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:06] "GET /_debug_toolbar/static/js/toolbar.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:07] "GET /_debug_toolbar/static/css/toolbar.css?0.41912354894736614 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:07] "GET /_debug_toolbar/static/css/toolbar.css?0.2726748349197259 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:08] "GET /_debug_toolbar/static/img/tick-red.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:08] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:15] "GET /_debug_toolbar/static/img/indicator.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:15] "GET /_debug_toolbar/static/img/close.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 14:22:24] "GET /_debug_toolbar/static/img/djdt_vertical.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:app:mliosa.html
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:17:44] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:17:45] "GET /_debug_toolbar/static/css/toolbar.css?0.8922400446948984 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:17:45] "GET /_debug_toolbar/static/css/toolbar.css?0.487708370656994 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:53:41] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:53:41] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:53:41] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:53:41] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:53:43] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:53:43] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:53:43] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:56:14] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:56:14] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:56:14] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:56:14] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:56:14] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:56:15] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:app:mliosa.html
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:58:06] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:58:08] "GET /_debug_toolbar/static/css/toolbar.css?0.5647004550950974 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2019 17:58:08] "GET /_debug_toolbar/static/css/toolbar.css?0.07981869620876791 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:45:45] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:45:45] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:45:45] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:45:46] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:45:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:45:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:45:47] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:46:54] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:46:54] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:46:54] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:46:54] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:46:55] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:46:56] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\utils\\trade_util.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:48:05] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:48:05] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:48:05] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:48:05] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:48:06] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:48:06] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:51:08] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:51:09] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:51:09] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:51:09] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:51:10] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:51:10] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\utils\\trade_util.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:52:18] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:52:19] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:52:19] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:52:19] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:52:20] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:52:20] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:19] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:19] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:19] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:19] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:20] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:21] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:38] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:38] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:38] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:38] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:39] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:39] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:50] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:50] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:50] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:50] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:51] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:51] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:53:51] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:54:16] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:54:16] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:54:16] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:54:16] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:54:17] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:54:17] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:54:17] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:55:48] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:55:48] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:55:48] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:55:49] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:55:49] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:55:50] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:55:50] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:08] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:09] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:09] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:09] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:10] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:10] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:12] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:12] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:12] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:12] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:13] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:13] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:40] "GET /mliosa/ HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:40] "GET /mliosa/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:40] "GET /mliosa/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:40] "GET /mliosa/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:41] "GET /mliosa/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:41] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 02:56:41] "GET /mliosa/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:34] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:37] "GET /_debug_toolbar/static/js/jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:37] "GET /_debug_toolbar/static/js/jquery.tablesorter.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:37] "GET /_debug_toolbar/static/js/toolbar.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:37] "GET /_debug_toolbar/static/css/toolbar.css?0.10978416225224596 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:37] "GET /_debug_toolbar/static/css/toolbar.css?0.21740765083466407 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:38] "GET /_debug_toolbar/static/img/tick-red.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:38] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:41] "GET /_debug_toolbar/static/img/indicator.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:00:41] "GET /_debug_toolbar/static/img/close.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:18] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:21] "GET /_debug_toolbar/static/css/toolbar.css?0.02467618653219783 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:21] "GET /_debug_toolbar/static/css/toolbar.css?0.15991010666052574 HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:34] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:36] "GET /_debug_toolbar/static/css/toolbar.css?0.7439043005796468 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:36] "GET /_debug_toolbar/static/css/toolbar.css?0.8364286334169082 HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:39] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:41] "GET /_debug_toolbar/static/css/toolbar.css?0.9047994238731716 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:01:41] "GET /_debug_toolbar/static/css/toolbar.css?0.8016064585608904 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\models\\PServiceRequest.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\models\\PServiceRequest.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\models\\PServiceRequest.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\models\\PServiceRequest.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\models\\PServiceRequest.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\models\\PServiceRequest.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\models\\PServiceRequest.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:19:39] "GET /mliosa/trade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:19:39] "GET /mliosa/trade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:19:39] "GET /mliosa/trade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:19:39] "GET /mliosa/trade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:19:40] "GET /mliosa/trade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:19:41] "GET /mliosa/trade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:19:41] "GET /mliosa/trade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:20:16] "GET /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:20:17] "GET /_debug_toolbar/static/css/toolbar.css?0.2229739259587693 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:20:17] "GET /_debug_toolbar/static/css/toolbar.css?0.8771209281267529 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:20:40] "POST /mliosa/trade HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:21:26] "GET /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:21:27] "GET /_debug_toolbar/static/css/toolbar.css?0.7484614801879981 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:21:27] "GET /_debug_toolbar/static/css/toolbar.css?0.2539008709582735 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:21:41] "POST /mliosa/trade HTTP/1.1" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:23:01] "GET /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:23:02] "GET /_debug_toolbar/static/css/toolbar.css?0.6230222451848351 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:23:02] "GET /_debug_toolbar/static/css/toolbar.css?0.5829919977330764 HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:23:07] "POST /mliosa/trade HTTP/1.1" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 266-416-520
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:24:34] "GET /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:24:36] "GET /_debug_toolbar/static/css/toolbar.css?0.3379598760493221 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:24:36] "GET /_debug_toolbar/static/css/toolbar.css?0.7576672470860446 HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:25:26] "POST /mliosa/trade HTTP/1.1" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:27:41] "GET /_debug_toolbar/static/css/toolbar.css?0.6279901256467209 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:27:41] "GET /_debug_toolbar/static/css/toolbar.css?0.8066797494399092 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:27:48] "GET /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:27:48] "GET /_debug_toolbar/static/css/toolbar.css?0.9021814338840684 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:27:49] "GET /_debug_toolbar/static/css/toolbar.css?0.4421321337559161 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:28:12] "POST /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:28:13] "GET /_debug_toolbar/static/css/toolbar.css?0.45863244193591646 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:28:13] "GET /_debug_toolbar/static/css/toolbar.css?0.8090023678411902 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:28:16] "GET /_debug_toolbar/static/img/djdt_vertical.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:28:27] "POST /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:28:28] "GET /_debug_toolbar/static/css/toolbar.css?0.48722783669756 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:28:28] "GET /_debug_toolbar/static/css/toolbar.css?0.0694967195535019 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2019 03:29:33] "POST /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:12:16] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:12:18] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:12:22] "GET /mliosa HTTP/1.1" 308 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:42:34] "GET /mliosa/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:43:20] "GET /_debug_toolbar/static/js/toolbar.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:45:22] "GET /_debug_toolbar/static/js/jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:45:24] "GET /_debug_toolbar/static/js/jquery.tablesorter.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:45:29] "GET /_debug_toolbar/static/css/toolbar.css?0.8303978847824727 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:45:29] "GET /_debug_toolbar/static/css/toolbar.css?0.41574183233240203 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:45:30] "GET /_debug_toolbar/static/img/tick-red.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:47:11] "GET /trade HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:48:00] "GET /trade/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:48:25] "GET /mliosa/trade/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:50:38] "GET /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:51:11] "GET /_debug_toolbar/static/css/toolbar.css?0.14929718614369425 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:51:25] "GET /_debug_toolbar/static/css/toolbar.css?0.7707944302988181 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:53:35] "POST /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:53:45] "GET /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:53:54] "GET /_debug_toolbar/static/css/toolbar.css?0.5647836901356864 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:53:54] "GET /_debug_toolbar/static/css/toolbar.css?0.30123801485349233 HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is invalid.
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:56:00] "POST /mliosa/trade HTTP/1.1" 400 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:56:10] "GET /mliosa/trade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:57:43] "GET /_debug_toolbar/static/css/toolbar.css?0.7588761463403251 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:57:43] "GET /_debug_toolbar/static/css/toolbar.css?0.4513322001653639 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:57:44] "GET /_debug_toolbar/static/img/djdt_vertical.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:58:11] "GET /_debug_toolbar/static/img/close.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2019 00:58:11] "GET /_debug_toolbar/static/img/indicator.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:35:18] "GET /_debug_toolbar/static/js/toolbar.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:35:18] "GET /_debug_toolbar/static/js/jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:35:18] "GET /_debug_toolbar/static/js/jquery.tablesorter.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:35:22] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:36:22] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:36:29] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:43:34] "GET /_debug_toolbar/static/js/jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:43:35] "GET /_debug_toolbar/static/js/toolbar.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:43:35] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:43:36] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:43:45] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 12:44:11] "GET /_debug_toolbar/static/img/indicator.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:55:52] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:55:52] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:55:52] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:55:53] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:55:53] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:55:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:55:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\MyFlask\\app\\mliosa\\controller\\mliosa_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:56:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:56:43] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 17:57:30] "GET / HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:00:48] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:00:50] "GET /_debug_toolbar/static/js/jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:00:50] "GET /_debug_toolbar/static/js/jquery.tablesorter.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:00:50] "GET /_debug_toolbar/static/js/toolbar.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:00:50] "GET /_debug_toolbar/static/css/toolbar.css?0.30858482835778256 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:00:50] "GET /_debug_toolbar/static/css/toolbar.css?0.8619969162574501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:00:51] "GET /_debug_toolbar/static/img/tick-red.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:02:57] "GET / HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:02:58] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:03:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:03:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:03:05] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:03:05] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:05:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:13:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:22:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:22:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:22:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:22:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:22:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:22:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:22:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:25:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:28:13] "GET / HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:28:20] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:28:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:28:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:28:36] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:28:36] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:07] "GET / HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:07] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:09] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:23] "GET / HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:24] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:26] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:30] "GET / HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:31] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:33] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:37] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:37] "GET / HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:38] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:39] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:42] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:42] "GET / HTTP/1.1" 200 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:43] "GET /mliosa/getmli HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:45] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
