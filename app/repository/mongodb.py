@@ -8,7 +8,7 @@ class MongoConnection(object):
             return self.mongo
         else:
            client=MongoClient('mongodb://localhost:27017/')
-           self.mongo =client["tradem"]
+           self.mongo =client["test"]
            return self.mongo
 
 
@@ -18,7 +18,7 @@ class mongoDB(object):
         self.mongo=MongoConnection().connect()
 
     def getAllTrades(self):
-        tradesc=(self.mongo["tradem_data"]).find()
+        tradesc=(self.mongo["test"]).find()
         trades=[]
         for i in tradesc:
             trades.append(i)
@@ -27,7 +27,7 @@ class mongoDB(object):
 
     def save_trade(self,trade):
         self.mongo
-        id=(self.mongo["tradem_data"]).insert_one(trade)
+        id=(self.mongo["test"]).insert_one(trade)
         pass
 
 

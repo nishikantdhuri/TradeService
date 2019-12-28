@@ -1174,3 +1174,21 @@ INFO:app:fetching trades..
 INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:43] "GET /mliosa/getmli HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:44] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [23/Dec/2019 18:29:45] "GET /_debug_toolbar/static/css/toolbar.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:46:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:47:00] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:app:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:47:44] "GET /regionb/getregionb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:47:44] "GET /_debug_toolbar/static/js/jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:47:44] "GET /_debug_toolbar/static/js/jquery.tablesorter.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:47:44] "GET /_debug_toolbar/static/js/toolbar.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:47:44] "GET /_debug_toolbar/static/css/toolbar.css?0.9246850014365589 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:47:44] "GET /_debug_toolbar/static/css/toolbar.css?0.3841233084958282 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 01:47:45] "GET /_debug_toolbar/static/img/tick-red.png HTTP/1.1" 200 -
