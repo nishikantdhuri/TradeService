@@ -1200,3 +1200,11 @@ INFO:app:fetching trades..
 INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 02:00:08] "GET /regionb/getregionb HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 02:00:10] "GET /_debug_toolbar/static/css/toolbar.css?0.7149747150169794 HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [29/Dec/2019 02:00:10] "GET /_debug_toolbar/static/css/toolbar.css?0.6056284140847044 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)

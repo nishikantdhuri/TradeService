@@ -1,4 +1,4 @@
-from app.models.BasePsr import BasePSR
+from app.BasePsr import BasePSR
 
 class PropertyLoader:
     def __init__(self,name):

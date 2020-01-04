@@ -1,9 +1,8 @@
 from flask import Blueprint,render_template,request
-from app.utils import trade_util
-from app.regionB.forms.regionb_form import REGIONBForm
+from app.regionb_form import REGIONBForm
 regionB_bp = Blueprint('regionB_bp',__name__,url_prefix='/regionb')
-from app import app
-from app.utils.trade_util import TradeUtil
+from app import app, trade_util
+from app.trade_util import TradeUtil
 logger=app.config['logger']
 trade_util=TradeUtil()
 # from blinker import Namespace
@@ -48,7 +47,7 @@ def formattext(str1):
 def getmli():
     #custom_signal.send(current_app._get_current_object(),id=123)
     logger.info('fetching trades..')
-    trades=trade_util.get_all_trades
+    trades= trade_util.get_all_trades
     return render_template('regionb.html',data=trades)
 
 

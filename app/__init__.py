@@ -17,11 +17,9 @@ app.config['logger']=logger
 app.config["MONGO_URI"] = "mongodb://localhost:27017/plexus"
 logging.basicConfig(filename='log.log',level=logging.DEBUG)
 app.config.from_object('config')
-from app.regionB.controller.regionb_controller import regionB_bp
-from app.regionA.controller.regiona_controller import resionA_bp
+from app.regionb_controller import regionB_bp
 app.register_blueprint(regionB_bp)
-app.register_blueprint(resionA_bp)
-from app.repository.mongodb import mongoDB
+from app.mongodb import mongoDB
 
 toolbar=DebugToolbarExtension(app)
 toolbar.init_app(app)

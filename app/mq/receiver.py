@@ -1,5 +1,6 @@
 import pika
-from app.utils import trade_util
+from app import trade_util
+
 conn=pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
 channel=conn.channel()
 

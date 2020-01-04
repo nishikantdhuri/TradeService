@@ -1,6 +1,6 @@
 #from injector import inject
-from app.models.PServiceRequest import PServiceRequest
-from app.repository.mongodb import mongoDB
+from app.PServiceRequest import PServiceRequest
+from app.mongodb import mongoDB
 
 class LazyLoadData:
 
