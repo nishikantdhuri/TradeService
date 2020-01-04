@@ -1,9 +1,10 @@
 from flask import Blueprint,render_template,request
 from app.trade_form import REGIONBForm
 trade_bp = Blueprint('trade_bp',__name__,url_prefix='/trade')
-from app import app, trade_util
+from app.run import application
+from app import trade_util
 from app.trade_util import TradeUtil
-logger=app.config['logger']
+logger=application.config['logger']
 trade_util=TradeUtil()
 # from blinker import Namespace
 # sig=Namespace()
@@ -24,7 +25,7 @@ trade_util=TradeUtil()
 #     if not trade_util.check_entitlement():
 #         render_template('error.html')
 
-@app.route('/')
+@application.route('/')
 def healthcheck():
     return 'runing'
 
