@@ -1,6 +1,6 @@
 from flask import Blueprint,render_template,request
-from app.regionb_form import REGIONBForm
-regionB_bp = Blueprint('regionB_bp',__name__,url_prefix='/regionb')
+from app.trade_form import REGIONBForm
+trade_bp = Blueprint('trade_bp',__name__,url_prefix='/trade')
 from app import app, trade_util
 from app.trade_util import TradeUtil
 logger=app.config['logger']
@@ -28,27 +28,27 @@ trade_util=TradeUtil()
 def healthcheck():
     return 'runing'
 
-@regionB_bp.route('/trade',methods=['POST','GET'])
+@trade_bp.route('/trade',methods=['POST','GET'])
 def put_trade():
     form_data=REGIONBForm()
     if form_data.validate_on_submit():
         return 'True'
-    return render_template('regionb_put_trade.html',form=form_data)
+    return render_template('put_trade.html',form=form_data)
 
-@regionB_bp.route('/error')
+@trade_bp.route('/error')
 def no_access():
     return render_template('error.html')
 
-@regionB_bp.app_template_filter()
+@trade_bp.app_template_filter()
 def formattext(str1):
     return str(str1) + "formatted!!"
 
-@regionB_bp.route('/getregionb',methods=['GET'])
+@trade_bp.route('/gettrades',methods=['GET'])
 def getmli():
     #custom_signal.send(current_app._get_current_object(),id=123)
     logger.info('fetching trades..')
     trades= trade_util.get_all_trades
-    return render_template('regionb.html',data=trades)
+    return render_template('trade.html',data=trades)
 
 
 # @mliosa_bp.route('/stream_data_slow')
@@ -80,7 +80,7 @@ def getmli():
 #         return render_template('inventory.html',form=form)
 
 
-@regionB_bp.route('/get/<id>')
+@trade_bp.route('/get/<id>')
 def getId(id):
     print(request.view_args)
     return str(id)

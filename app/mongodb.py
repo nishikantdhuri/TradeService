@@ -26,7 +26,7 @@ class mongoDB(object):
 
 
     def save_trade(self,trade):
-        self.mongo
+        #self.mongo
         id=(self.mongo["test"]).insert_one(trade)
         pass
 
