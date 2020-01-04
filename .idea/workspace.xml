@@ -3,29 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9bc3d282-6ead-4a97-8b13-d0a52c5dc7b2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/app/base/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/base/controller/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/extn/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/extn/flask_validate.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/forms/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/forms/region_form.py" afterPath="$PROJECT_DIR$/app/region_form.py" />
-      <change beforePath="$PROJECT_DIR$/app/models/BasePsr.py" afterPath="$PROJECT_DIR$/app/BasePsr.py" />
-      <change beforePath="$PROJECT_DIR$/app/models/PServiceRequest.py" afterPath="$PROJECT_DIR$/app/PServiceRequest.py" />
-      <change beforePath="$PROJECT_DIR$/app/models/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/mq/receiver.py" afterPath="$PROJECT_DIR$/app/mq/receiver.py" />
-      <change beforePath="$PROJECT_DIR$/app/regionA/controller/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/regionA/controller/regiona_controller.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/regionB/controller/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/regionB/controller/regionb_controller.py" afterPath="$PROJECT_DIR$/app/regionb_controller.py" />
-      <change beforePath="$PROJECT_DIR$/app/regionB/forms/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/regionB/forms/regionb_form.py" afterPath="$PROJECT_DIR$/app/regionb_form.py" />
-      <change beforePath="$PROJECT_DIR$/app/repository/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/repository/mongodb.py" afterPath="$PROJECT_DIR$/app/mongodb.py" />
-      <change beforePath="$PROJECT_DIR$/app/utils/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/utils/trade_util.py" afterPath="$PROJECT_DIR$/app/trade_util.py" />
-      <change beforePath="$PROJECT_DIR$/log.log" afterPath="$PROJECT_DIR$/log.log" />
-      <change beforePath="$PROJECT_DIR$/run.py" afterPath="$PROJECT_DIR$/app/run.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,8 +16,8 @@
       <file leaf-file-name="regionb_controller.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/regionb_controller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            <state relative-caret-position="187">
+              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -137,7 +114,7 @@
         </entry>
       </file>
       <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.py">
+        <entry file="file://$PROJECT_DIR$/app/config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -267,6 +244,11 @@
             <path>
               <item name="TradeService" type="b2602c69:ProjectViewProjectNode" />
               <item name="TradeService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TradeService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TradeService" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -457,7 +439,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577565480209</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="restructuring project">
+      <created>1578157876148</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578157876148</updated>
+    </task>
+    <task id="LOCAL-00007" summary="restructuring project">
+      <created>1578158288918</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578158288918</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -523,7 +519,8 @@
     <MESSAGE value="Changes Mongo DB name" />
     <MESSAGE value="Added requirment.txt file" />
     <MESSAGE value="Added dummy data psr.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added dummy data psr.json" />
+    <MESSAGE value="restructuring project" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructuring project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -841,7 +838,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
+    <entry file="file://$PROJECT_DIR$/app/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -984,8 +981,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/regionb_controller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        <state relative-caret-position="187">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
