@@ -1,7 +1,7 @@
 from flask import Blueprint,render_template,request
 from app.trade_form import REGIONBForm
 trade_bp = Blueprint('trade_bp',__name__,url_prefix='/trade')
-from app.run import application
+from run import application
 from app import trade_util
 from app.trade_util import TradeUtil
 logger=application.config['logger']

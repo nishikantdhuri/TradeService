@@ -16,13 +16,13 @@ application.config['logger']=logger
 
 application.config["MONGO_URI"] = "mongodb://localhost:27017/plexus"
 logging.basicConfig(filename='log.log',level=logging.DEBUG)
-application.config.from_object('config')
+#application.config.from_object('config')
 from app.trade_controller import trade_bp
 application.register_blueprint(trade_bp)
 from app.mongodb import mongoDB
 
-toolbar=DebugToolbarExtension(application)
-toolbar.init_app(application)
+# toolbar=DebugToolbarExtension(application)
+# toolbar.init_app(application)
 
 # @app.before_first_request
 # def beforefirstre():

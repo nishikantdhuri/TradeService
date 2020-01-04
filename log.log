@@ -1208,3 +1208,7 @@ INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 322-453-896
 INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)

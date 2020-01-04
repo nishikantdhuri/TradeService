@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-from app.run import application
+
 
 class MongoConnection(object):
 
