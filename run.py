@@ -1,10 +1,9 @@
 from flask import Flask
 import logging
 from flask_wtf import CSRFProtect
-from flask_debugtoolbar import DebugToolbarExtension
 from flask_login import LoginManager
 application=Flask(__name__)
-application.debug=True
+application.debug=False
 cs=CSRFProtect()
 cs.init_app(application)
 lm=LoginManager()
@@ -52,4 +51,4 @@ if __name__ == '__main__':
     #_ext = Validate(app)
     #app.config['extn']=_ext
     #_ext.configure()
-    application.run(port=82)
+    application.run(host='0.0.0.0',port=82)
