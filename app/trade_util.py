@@ -14,9 +14,23 @@ class LazyLoadData:
 
 mongo=mongoDB()
 
-class TradeUtil:
+class TradeUtil(object):
 
-    @LazyLoadData
+    __trade = None
+
+    def __init__(self):
+        if TradeUtil.__trade != None:
+            raise ('singleton class')
+        else:
+            TradeUtil.__trade = self
+
+    @staticmethod
+    def getinstance():
+        if TradeUtil.__trade == None:
+            TradeUtil.__trade = TradeUtil()
+        return TradeUtil.__trade
+
+    #@LazyLoadData
     def get_all_trades(self):
         trades=mongo.getAllTrades()
         return trades
@@ -24,10 +38,17 @@ class TradeUtil:
     def save_trade(self,trade):
         mongo.save_trade(trade)
 
-    def process_trade(self,msg):
-        psr=PServiceRequest(msg)
-        self.save_trade(vars(psr))
+    def process_trade(self,trade):
+        psr=PServiceRequest(trade)
+        return self.save_trade(vars(psr))
 
     def check_entitlement(self):
         return True
+
+    def save_trade(self,trade):
+        try:
+            id=mongo.save_trade(trade)
+        except Exception as ex:
+            return '0'
+        return id
 

@@ -1,4 +1,5 @@
 from app.BasePsr import BasePSR
+import uuid
 
 class PropertyLoader:
     def __init__(self,name):
@@ -13,22 +14,26 @@ class PropertyLoader:
 class PServiceRequest(BasePSR):
 
     def __init__(self,trade):
-        self._id=None
-        self.source=None
-        self.account=None
-        self.tdate=None
-        self.user=None
-        self.amount=None
-        self.entity=None
-        self.sdate=None
+        self.id=uuid.uuid1()
+        # self.trade_user=trade['trade_user']
+        # self.trade_name = trade['trade_name']
+        # self.trade_quantity = trade['trade_quantity']
+        # self.exchange = trade['exchanges']
+        self.source=trade['exchanges']
+        self.account=trade['trade_name']
+        self.tdate='11-11-2020'
+        self.user=trade['trade_user']
+        self.amount=trade['trade_quantity']
+        self.entity=trade['trade_name']
+        self.sdate='11-11-2020'
 
-    @property
-    def Id(self):
-        return self._id
-
-    @Id.setter
-    def Id(self,val):
-        self._id=val
-
-    def calculate_deal(self,amout):
-        return amout
+    # @property
+    # def Id(self):
+    #     return self._id
+    #
+    # @Id.setter
+    # def Id(self,val):
+    #     self._id=val
+    #
+    # def calculate_deal(self,amout):
+    #     return amout

@@ -11,11 +11,11 @@ lm.init_app(application)
 #logging.basicConfig(filename=__name__,format='%(process)d-%(levelname)s-%(message)s',level=logging.DEBUG)
 logger=logging.getLogger(__name__)
 application.config['logger']=logger
-
+#application.debug=True
 
 application.config["MONGO_URI"] = "mongodb://localhost:27017/plexus"
 logging.basicConfig(filename='log.log',level=logging.DEBUG)
-#application.config.from_object('config')
+application.config.from_object('config')
 from app.trade_controller import trade_bp
 application.register_blueprint(trade_bp)
 from app.mongodb import mongoDB
@@ -52,3 +52,4 @@ if __name__ == '__main__':
     #app.config['extn']=_ext
     #_ext.configure()
     application.run(host='0.0.0.0',port=82)
+    #application.run(port=82)

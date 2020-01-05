@@ -2,6 +2,7 @@
 <html>
    <body>
       <h1>Welcome to {{format_macro("plexus")}}</h1>
+      <a href="{{url_for('trade_bp.put_trade')}}">Create a Trade</a>
       {% block content %}
       {% endblock %}
    </body>

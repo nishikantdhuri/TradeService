@@ -5,9 +5,14 @@
     <title>Title</title>
 </head>
 <body>
-<form method="POST" novalidate action="/regionB/trade">
+<form method="POST" novalidate action="/trade/processtrade">
     {{form.trade_user.label}} {{form.trade_user}}
     {{form.trade_name.label}} {{form.trade_name}}
+    {% if form.trade_name.errors %}
+    {% for i in form.trade_name.errors %}
+    {{i}}
+    {% endfor %}
+    {% endif %}
     {{form.trade_quantity.label}} {{form.trade_quantity}}
     {% if form.trade_quantity.errors %}
     {% for i in form.trade_quantity.errors %}

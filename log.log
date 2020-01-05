@@ -1292,3 +1292,231 @@ Traceback (most recent call last):
     raise KeyError(message)
 KeyError: 'A secret key is required to use CSRF.'
 INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 22:40:16] "GET /trade/trade HTTP/1.1" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:52:00] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:52:06] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:52:28] "GET / HTTP/1.1" 404 -
+ERROR:run:Exception on /trade/trade [GET]
+Traceback (most recent call last):
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:/Users/ABC/PycharmProjects/TradeService\app\trade_controller.py", line 34, in put_trade
+    form_data=REGIONBForm()
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\wtforms\form.py", line 212, in __call__
+    return type.__call__(cls, *args, **kwargs)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask_wtf\form.py", line 88, in __init__
+    super(FlaskForm, self).__init__(formdata=formdata, **kwargs)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\wtforms\form.py", line 278, in __init__
+    self.process(formdata, obj, data=data, **kwargs)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\wtforms\form.py", line 132, in process
+    field.process(formdata)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\wtforms\csrf\core.py", line 43, in process
+    self.current_token = self.csrf_impl.generate_csrf_token(self)
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask_wtf\csrf.py", line 134, in generate_csrf_token
+    token_key=self.meta.csrf_field_name
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask_wtf\csrf.py", line 35, in generate_csrf
+    message='A secret key is required to use CSRF.'
+  File "C:\Users\ABC\PycharmProjects\MyFlask\venv\lib\site-packages\flask_wtf\csrf.py", line 121, in _get_config
+    raise KeyError(message)
+KeyError: 'A secret key is required to use CSRF.'
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:52:36] "GET /trade/trade HTTP/1.1" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:53:26] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:53:33] "GET /trade/trade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:53:34] "GET /trade/trade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:53:35] "GET /trade/trade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:53:36] "GET /trade/trade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:53:40] "GET /trade/trade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:53:40] "GET /trade/trade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:53:40] "GET /trade/trade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:54:31] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:54:44] "GET /trade/trade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:54:45] "GET /trade/trade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:54:45] "GET /trade/trade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:54:45] "GET /trade/trade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:54:45] "GET /trade/trade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2020 23:54:46] "GET /trade/trade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:00:46] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\TradeService\\app\\trade_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:10:05] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:34:40] "GET /trade/processtrade HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:34:47] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:35:16] "POST /trade/processtrade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:35:16] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:35:16] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:35:16] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:35:17] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:35:17] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:35:18] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:36:40] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:39:22] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:39:43] "POST /trade/processtrade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:39:43] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:39:43] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:39:43] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:39:44] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:39:45] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:43:22] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:43:44] "POST /trade/processtrade HTTP/1.1" 302 -
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:43:45] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\TradeService\\app\\PServiceRequest.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:47:07] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:47:13] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:47:14] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:47:30] "POST /trade/processtrade HTTP/1.1" 302 -
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:47:31] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:47:53] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 00:48:57] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:01:36] "GET /trade/gettrades HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:01:36] "GET /trade/gettrades?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:01:36] "GET /trade/gettrades?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:01:37] "GET /trade/gettrades?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:01:38] "GET /trade/gettrades?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:01:39] "GET /trade/gettrades?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:01:39] "GET /trade/gettrades?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:10] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:16] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:25] "POST /trade/processtrade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:25] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:25] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:25] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:26] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:27] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:27] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:35] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:54] "POST /trade/processtrade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:54] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:54] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:54] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:55] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:02:55] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:01] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:10] "POST /trade/processtrade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:10] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:10] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:10] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:11] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:11] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:13] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:21] "POST /trade/processtrade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:22] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:22] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:22] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:22] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:22] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:24] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:41] "POST /trade/processtrade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:42] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:42] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:42] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:42] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:03:43] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:10:07] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:11:22] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:11:51] "POST /trade/processtrade HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:11:51] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:11:51] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:11:51] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:11:52] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:11:53] "GET /trade/processtrade?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:12:06] "GET /trade/processtrade HTTP/1.1" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\TradeService\\app\\trade_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:12:12] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:12:25] "POST /trade/processtrade HTTP/1.1" 302 -
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:12:27] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:13:49] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:13:52] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:14:03] "POST /trade/processtrade HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:14:03] "GET /trade/error HTTP/1.1" 200 -
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:14:06] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ABC\\PycharmProjects\\TradeService\\app\\trade_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 322-453-896
+INFO:werkzeug: * Running on http://127.0.0.1:82/ (Press CTRL+C to quit)
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:15:46] "GET /trade/gettrades HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:15:49] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:15:53] "POST /trade/processtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:16:27] "GET /trade/processtrade HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:16:29] "GET /trade/sendtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:16:32] "POST /trade/processtrade HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:16:45] "POST /trade/processtrade HTTP/1.1" 302 -
+INFO:run:fetching trades..
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2020 01:16:45] "GET /trade/gettrades HTTP/1.1" 200 -
