@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-
+import os
 
 class MongoConnection(object):
 
@@ -7,7 +7,8 @@ class MongoConnection(object):
         if hasattr(self,'mongo')and self.mongo is not None:
             return self.mongo
         else:
-           client=MongoClient('mongodb://172.17.0.2:27017/')
+           mongo='mongodb://'+os.environ['mongo_addr']+':27017/'
+           client=MongoClient(mongo)
            self.mongo =client["test"]
            return self.mongo
 
