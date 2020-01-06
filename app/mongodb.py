@@ -7,7 +7,7 @@ class MongoConnection(object):
         if hasattr(self,'mongo')and self.mongo is not None:
             return self.mongo
         else:
-           client=MongoClient('mongodb://localhost:27017/')
+           client=MongoClient('mongodb://0.0.0.0:27017/')
            self.mongo =client["test"]
            return self.mongo
 
